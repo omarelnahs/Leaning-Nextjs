@@ -1,6 +1,6 @@
 function ComplexDashboardPage() {
   return (
-    <div>Complex Dashboard</div>
+    <h1>Complex Dashboard</h1>
   )
 }
 
